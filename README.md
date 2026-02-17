@@ -4,7 +4,7 @@ Essa é uma versão mais avançada e completa do jogo do número secreto, com di
 
 ---
 
-## Como funciona
+## Como Funciona
 
 • Ao iniciar o jogo, um número secreto é gerado aleatoriamente.
 
@@ -20,7 +20,7 @@ Essa é uma versão mais avançada e completa do jogo do número secreto, com di
 
 ---
 
-## Funcionalidades implementadas
+## Funcionalidades Implementadas
 
 • Geração de números aleatórios sem repetição, utilizando uma lista de controle.
 
